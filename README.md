@@ -58,7 +58,7 @@ The **Alice in Wonderland Chatbot** is a creative application of AI and NLP, bri
 
 ## Contact
 For inquiries or collaborations, reach out:
-- **GitHub**: [GitHub Profile](https://github.com/ChristabelJohnny)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/christabeljohnny)
+- **GitHub**: [GitHub Profile](https://github.com/Ife926)
+- **LinkedIn**: [LinkedIn Profile](http://www.linkedin.com/in/ifechukwu-okonkwo-9073a0252)
 - **Interact with the Chatbot Here**: [Alice in Wonderland Chatbot](http://localhost:8501/.com)
 
